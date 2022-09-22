@@ -1,8 +1,9 @@
 
 <!---
-vinicussavillla/vinicussavillla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
+
+
 ## Hello, I'm Vinicius de Avilla 
 I am from brazil
  <div>
@@ -10,6 +11,7 @@ I am from brazil
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vinicussavillla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicussavillla&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
